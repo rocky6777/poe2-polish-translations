@@ -6,4 +6,4 @@ The patcher auto-downloads these on each run.
 - `manifest.json` — version/date/count
 - `translations.pl.json.gz` — gzipped { english: polish } map
 
-Current: **v14**, 155,530 strings, 2026-06-05.
+Current: **v15**, 155,614 strings, 2026-06-12.
